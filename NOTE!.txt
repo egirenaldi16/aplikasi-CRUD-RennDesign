@@ -1,0 +1,9 @@
+CRUD APLIKASI RENALDI DESIGN - php native
+
+NOTE!
+
+1. Folder PLUGIN tidak ada , untuk mendapatkan folder ini pengguna harus download plugin Admin LTE , klik link ini : https://adminlte.io/ , lalu download setelah di download ekstrak , lalu cari folder PLUGIN dan pindahkan kepada project
+
+2. Folder VENDOR tidak ada, maka dari itu untuk menggunakan aplikasi ini harus install vendor terlebih dahulu menggunakan "composer install" atau "composer update" pada project
+
+3. Databases akan di upload ke repository di folder databases.
